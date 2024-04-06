@@ -10,5 +10,5 @@ Este repositorio contiene el código fuente y los recursos relacionados con FitP
  - [Diego Pérez Carrasco](https://github.com/deigodd)
 - [Aaron Pozas Oyarce](https://github.com/Aropoint)
 - [Alex Marambio Leyton](https://github.com/AlexMarambio)
-- [Diego Muñoz Barra]()
-- [Ignacio Pastén]()
+- [Diego Muñoz Barra](https://github.com/deigodd)
+- [Ignacio Pastén](https://github.com/Nachooo711)
