@@ -4,3 +4,11 @@ FitPet es un proyecto inspirado en los clásicos Tamagotchis, diseñado para mot
 Este repositorio contiene el código fuente y los recursos relacionados con FitPet, incluyendo el firmware para el ESP32, la aplicación móvil para llevar un registro estadístico, y cualquier otra herramienta o recurso necesario para el proyecto.
 
 ¡Únete a nosotros para llevar la diversión y el bienestar a un nuevo nivel con FitPet!
+
+
+# Creadores
+ - [Diego Pérez Carrasco](https://github.com/deigodd)
+- [Aaron Pozas Oyarce](https://github.com/Aropoint)
+- [Alex Marambio Leyton](https://github.com/AlexMarambio)
+- [Diego Muñoz Barra]()
+- [Ignacio Pastén]()
