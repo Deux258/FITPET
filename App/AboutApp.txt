@@ -1,0 +1,13 @@
+# Aplicación FITPET
+
+La aplicación estadística de FitPet es una herramienta complementaria diseñada para ayudar a los usuarios a realizar un seguimiento detallado de la actividad física de sus mascotas virtuales. 
+Esta aplicación se integra con el dispositivo FitPet y recopila datos en tiempo real del acelerómetro para proporcionar estadísticas útiles y motivadoras.
+
+# Características Principales:
+- Registro de Actividad: La aplicación registra y muestra la cantidad de pasos dados por la mascota virtual a lo largo del día.
+
+- Estadísticas Diarias: Los usuarios pueden ver un resumen diario de la actividad física de su mascota, incluyendo la cantidad de pasos, la distancia recorrida y las calorías quemadas.
+
+- Gráficos de Progreso: Gracias a los gráficos de progreso, los usuarios pueden visualizar fácilmente cómo ha mejorado la actividad física de su mascota a lo largo del tiempo.
+
+- Desafíos y Logros: La aplicación ofrece desafíos y logros que motivan a los usuarios a mantener a sus mascotas activas y saludables.
