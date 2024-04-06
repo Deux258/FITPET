@@ -1,0 +1,11 @@
+# Diseño 3D de FitPet
+
+El diseño 3D de FitPet es la representación digital del dispositivo físico, incluyendo la carcasa y los componentes internos. Este diseño es fundamental para la fabricación del dispositivo y proporciona una vista detallada de su estructura y apariencia.
+
+#Características Principales:
+
+- Carcasa Personalizada: El diseño incluye una carcasa específicamente diseñada para alojar el ESP32, el acelerómetro y otros componentes del dispositivo de manera segura y eficiente.
+
+- Detalles Estéticos: Se han tenido en cuenta detalles estéticos para que el diseño sea atractivo y se ajuste al concepto de mascota virtual de FitPet.
+
+- Compatibilidad con la Impresión 3D: El diseño está preparado para ser impreso en una impresora 3D utilizando materiales adecuados para la fabricación de prototipos.
